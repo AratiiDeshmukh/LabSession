@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author deven
- *
- */
-module practicaljava {
-}
